@@ -4,6 +4,7 @@
   
   ## Installation
     git clone https://github.com/t348575/blockchain-api.git
+    cd blockchain-api
     npm install
     npm run build
     
