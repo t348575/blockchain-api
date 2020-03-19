@@ -1,0 +1,23 @@
+{
+  "name": "blockchain-api",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node-gyp -m -j 8 rebuild",
+    "clean": "node-gyp clean",
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^13.9.1",
+    "bcryptjs": "^2.4.3",
+    "find-peers": "^1.0.1004",
+    "local-devices": "^3.0.0",
+    "node-addon-api": "^2.0.0"
+  },
+  "devDependencies": {
+    "node-gyp": "^6.1.0"
+  }
+}
