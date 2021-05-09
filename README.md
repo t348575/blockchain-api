@@ -1,4 +1,4 @@
-# blockchain-api
+# blockchain-api ![Visits](https://nkvnu62257.execute-api.ap-south-1.amazonaws.com/production?repo=blockchain-api)
   Blockchain API based on [BasicBlockChain](https://github.com/t348575/BasicBlockChain) using node-addon-api to run multithreaded native code for faster hash computation and execution
   
   
